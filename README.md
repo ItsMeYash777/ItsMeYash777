@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Solanki</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align ="right" alt ="Coding" width="400" src="https://www.pexels.com/photo/red-and-orange-galaxy-illustration-41951/">
+<img align ="right" alt ="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/29/87/37/360_F_529873767_FMwTX8twWRwAI4xtk2X65THeflD7Fp9s.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeyash777&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeyash777" /> </p>
 
