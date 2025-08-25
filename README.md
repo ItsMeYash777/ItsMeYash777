@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align ="left" alt ="Coding" width="400" border-radius: 50% src="https://t4.ftcdn.net/jpg/05/29/87/37/360_F_529873767_FMwTX8twWRwAI4xtk2X65THeflD7Fp9s.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeyash777&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeyash777" /> </p>
-
 - 📫 How to reach me **yashworks77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
